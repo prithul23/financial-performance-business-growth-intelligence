@@ -1,0 +1,31 @@
+Client_ID,Client_Name,Industry,Client_Tier,Region
+C001,Client 01,Retail,Mid-Market,Delhi NCR
+C002,Client 02,Education,Enterprise,Maharashtra
+C003,Client 03,Logistics,Enterprise,Tamil Nadu
+C004,Client 04,Technology,Mid-Market,Delhi NCR
+C005,Client 05,Technology,SME,Karnataka
+C006,Client 06,Financial Services,Enterprise,Tamil Nadu
+C007,Client 07,Retail,SME,Delhi NCR
+C008,Client 08,Education,SME,Tamil Nadu
+C009,Client 09,Healthcare,Enterprise,Kerala
+C010,Client 10,Retail,Mid-Market,Karnataka
+C011,Client 11,Logistics,Enterprise,Maharashtra
+C012,Client 12,Financial Services,SME,Kerala
+C013,Client 13,Education,SME,Karnataka
+C014,Client 14,Education,Mid-Market,Kerala
+C015,Client 15,Education,Enterprise,Maharashtra
+C016,Client 16,Education,SME,Karnataka
+C017,Client 17,Logistics,Mid-Market,Tamil Nadu
+C018,Client 18,Retail,SME,Tamil Nadu
+C019,Client 19,Financial Services,SME,Karnataka
+C020,Client 20,Technology,SME,Maharashtra
+C021,Client 21,Logistics,SME,Delhi NCR
+C022,Client 22,Technology,Enterprise,Karnataka
+C023,Client 23,Healthcare,Mid-Market,Kerala
+C024,Client 24,Financial Services,Mid-Market,Delhi NCR
+C025,Client 25,Education,Mid-Market,Maharashtra
+C026,Client 26,Logistics,Enterprise,Maharashtra
+C027,Client 27,Technology,Mid-Market,Kerala
+C028,Client 28,Education,Enterprise,Tamil Nadu
+C029,Client 29,Logistics,SME,Maharashtra
+C030,Client 30,Technology,SME,Delhi NCR
