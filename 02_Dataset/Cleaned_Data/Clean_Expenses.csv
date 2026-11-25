@@ -1,0 +1,451 @@
+Expense_ID,Expense_Date,Department_ID,Standardized_Expense_Category,Standardized_Vendor,Expense_Amount,Payment_Status,Expense_Year,Expense_Month,Expense_Quarter,Expense_Month_Key,Department Name
+EXP00001,2026-06-10,D04,Software,Vendor A,16337.63,Paid,2026,June,Q2,2026-06,Finance
+EXP00002,2026-04-14,D03,Utilities,Vendor E,20164.63,Paid,2026,April,Q2,2026-04,Operations
+EXP00003,2026-07-14,D03,Travel,Vendor C,11231.96,Paid,2026,July,Q3,2026-07,Operations
+EXP00004,2026-08-08,D04,Software,Vendor B,8904.14,Paid,2026,August,Q3,2026-08,Finance
+EXP00005,2026-09-19,D02,Travel,Vendor C,12584.06,Paid,2026,September,Q3,2026-09,Marketing
+EXP00006,2026-05-03,D01,Software,Vendor A,1777.72,Paid,2026,May,Q2,2026-05,Sales
+EXP00007,2026-10-11,D05,Software,Vendor C,11865.08,Paid,2026,October,Q4,2026-10,Customer Support
+EXP00008,2026-04-09,D01,Salaries,Vendor C,9246.38,Paid,2026,April,Q2,2026-04,Sales
+EXP00009,2026-03-03,D03,Utilities,Vendor B,9601.01,Paid,2026,March,Q1,2026-03,Operations
+EXP00010,2026-04-26,D02,Utilities,Vendor E,15122.21,Overdue,2026,April,Q2,2026-04,Marketing
+EXP00011,2026-06-10,D02,Marketing,Vendor B,9462.94,Paid,2026,June,Q2,2026-06,Marketing
+EXP00012,2026-07-23,D01,Rent,Vendor A,4993.42,Paid,2026,July,Q3,2026-07,Sales
+EXP00013,2026-09-11,D05,Professional Fees,Vendor C,9092.07,Paid,2026,September,Q3,2026-09,Customer Support
+EXP00014,2026-03-10,D03,Utilities,Vendor E,10306.53,Pending,2026,March,Q1,2026-03,Operations
+EXP00015,2026-04-03,D02,Salaries,Vendor B,10603.72,Paid,2026,April,Q2,2026-04,Marketing
+EXP00016,2026-10-13,D04,Professional Fees,Vendor A,10906.91,Pending,2026,October,Q4,2026-10,Finance
+EXP00017,2026-05-14,D01,Salaries,Vendor E,18464.8,Paid,2026,May,Q2,2026-05,Sales
+EXP00018,2026-03-15,D03,Salaries,Vendor C,5158.39,Paid,2026,March,Q1,2026-03,Operations
+EXP00019,2026-10-27,D03,Travel,Vendor A,10997.47,Paid,2026,October,Q4,2026-10,Operations
+EXP00020,2026-05-17,D03,Utilities,Vendor D,21460.25,Paid,2026,May,Q2,2026-05,Operations
+EXP00021,2026-10-27,D01,Salaries,Vendor B,3495.5,Pending,2026,October,Q4,2026-10,Sales
+EXP00022,2026-10-07,D05,Travel,Vendor E,11023.54,Pending,2026,October,Q4,2026-10,Customer Support
+EXP00023,2026-10-03,D02,Software,Vendor B,6965.84,Paid,2026,October,Q4,2026-10,Marketing
+EXP00024,2026-06-26,D04,Travel,Vendor C,7923.38,Overdue,2026,June,Q2,2026-06,Finance
+EXP00025,2026-08-31,D04,Professional Fees,Vendor C,,Paid,2026,August,Q3,2026-08,Finance
+EXP00026,2026-10-20,D02,Travel,Vendor B,8939.81,Paid,2026,October,Q4,2026-10,Marketing
+EXP00027,2026-03-23,D01,Software,Vendor C,29874.29,Paid,2026,March,Q1,2026-03,Sales
+EXP00028,2026-01-12,D02,Salaries,Vendor A,4634.77,Paid,2026,January,Q1,2026-01,Marketing
+EXP00029,2026-04-08,D05,Software,Vendor D,4906.1,Pending,2026,April,Q2,2026-04,Customer Support
+EXP00030,2026-07-13,D05,Salaries,Vendor D,4531.64,Paid,2026,July,Q3,2026-07,Customer Support
+EXP00031,2026-06-16,D05,Rent,Vendor E,27901.93,Paid,2026,June,Q2,2026-06,Customer Support
+EXP00032,2026-01-25,D02,Travel,Vendor B,7499.53,Paid,2026,January,Q1,2026-01,Marketing
+EXP00033,2026-06-20,D04,Marketing,Vendor B,9746.04,Paid,2026,June,Q2,2026-06,Finance
+EXP00034,2026-02-23,D01,Utilities,Vendor C,7772.37,Paid,2026,February,Q1,2026-02,Sales
+EXP00035,2026-06-03,D04,Rent,Vendor D,5615.84,Paid,2026,June,Q2,2026-06,Finance
+EXP00036,2026-06-25,D03,Software,Vendor E,8594.77,Paid,2026,June,Q2,2026-06,Operations
+EXP00037,2026-07-13,D04,Travel,Vendor A,43258.38,Paid,2026,July,Q3,2026-07,Finance
+EXP00038,2026-05-06,D04,Travel,Vendor B,22816.58,Paid,2026,May,Q2,2026-05,Finance
+EXP00039,2026-05-05,D05,Utilities,Vendor B,5932.72,Paid,2026,May,Q2,2026-05,Customer Support
+EXP00040,2026-07-26,D03,Travel,Vendor B,14596.61,Paid,2026,July,Q3,2026-07,Operations
+EXP00041,2026-08-16,D02,Salaries,Vendor C,6009.44,Pending,2026,August,Q3,2026-08,Marketing
+EXP00042,2026-09-03,D03,Utilities,Vendor E,3409.02,Overdue,2026,September,Q3,2026-09,Operations
+EXP00043,2026-04-12,D01,Travel,Vendor A,18246.1,Paid,2026,April,Q2,2026-04,Sales
+EXP00044,2026-05-09,D01,Salaries,Vendor E,19851.91,Overdue,2026,May,Q2,2026-05,Sales
+EXP00045,2026-04-11,D03,Rent,Vendor D,18538.99,Paid,2026,April,Q2,2026-04,Operations
+EXP00046,2026-06-10,D05,Software,Vendor D,7465.75,Paid,2026,June,Q2,2026-06,Customer Support
+EXP00047,2026-02-08,D03,Professional Fees,Vendor D,8954.71,Paid,2026,February,Q1,2026-02,Operations
+EXP00048,2026-05-11,D04,Utilities,Vendor A,15519.6,Paid,2026,May,Q2,2026-05,Finance
+EXP00049,2026-02-27,D01,Travel,Vendor D,12517.68,Pending,2026,February,Q1,2026-02,Sales
+EXP00050,2026-06-11,D03,Marketing,Vendor B,7815.14,Paid,2026,June,Q2,2026-06,Operations
+EXP00051,2026-09-16,D04,Marketing,Vendor C,3746.42,Paid,2026,September,Q3,2026-09,Finance
+EXP00052,2026-10-27,D02,Rent,Vendor D,10596.99,Paid,2026,October,Q4,2026-10,Marketing
+EXP00053,2026-05-16,D01,Salaries,Vendor D,18909.24,Paid,2026,May,Q2,2026-05,Sales
+EXP00054,2026-01-18,D01,Travel,Vendor B,4824.43,Paid,2026,January,Q1,2026-01,Sales
+EXP00055,2026-03-11,D05,Software,Vendor B,14519.61,Paid,2026,March,Q1,2026-03,Customer Support
+EXP00056,2026-02-01,D04,Rent,Vendor C,12075.39,Paid,2026,February,Q1,2026-02,Finance
+EXP00057,2026-08-19,D02,Salaries,Vendor A,15523.17,Paid,2026,August,Q3,2026-08,Marketing
+EXP00058,2026-10-27,D02,Marketing,Vendor D,16700.36,Paid,2026,October,Q4,2026-10,Marketing
+EXP00059,2026-06-18,D01,Utilities,Vendor A,6524.51,Paid,2026,June,Q2,2026-06,Sales
+EXP00060,2026-02-23,D05,Professional Fees,Vendor C,3751.17,Paid,2026,February,Q1,2026-02,Customer Support
+EXP00061,2026-01-07,D01,Travel,Vendor D,7185.99,Paid,2026,January,Q1,2026-01,Sales
+EXP00062,2026-10-24,D04,Salaries,Vendor A,16873.11,Paid,2026,October,Q4,2026-10,Finance
+EXP00063,2026-04-07,D02,Utilities,Vendor E,7149.5,Paid,2026,April,Q2,2026-04,Marketing
+EXP00064,2026-02-04,D02,Salaries,Vendor B,6526.16,Paid,2026,February,Q1,2026-02,Marketing
+EXP00065,2026-02-23,D02,Salaries,Vendor A,3318.24,Pending,2026,February,Q1,2026-02,Marketing
+EXP00066,2026-03-19,D05,Professional Fees,Vendor D,28327.51,Paid,2026,March,Q1,2026-03,Customer Support
+EXP00067,2026-07-19,D01,Professional Fees,Vendor C,16243.18,Paid,2026,July,Q3,2026-07,Sales
+EXP00068,2026-09-29,D02,Rent,Vendor D,15708.19,Paid,2026,September,Q3,2026-09,Marketing
+EXP00069,2026-03-25,D02,Utilities,Vendor D,17687.89,Overdue,2026,March,Q1,2026-03,Marketing
+EXP00070,2026-07-28,D02,Salaries,Vendor C,13988.98,Pending,2026,July,Q3,2026-07,Marketing
+EXP00071,2026-01-20,D01,Salaries,Vendor E,8547.57,Paid,2026,January,Q1,2026-01,Sales
+EXP00072,2026-01-04,D05,Travel,Vendor B,8970.9,Paid,2026,January,Q1,2026-01,Customer Support
+EXP00073,2026-01-17,D02,Salaries,Vendor C,7657.66,Paid,2026,January,Q1,2026-01,Marketing
+EXP00074,2026-10-08,D03,Professional Fees,Vendor A,48090.72,Overdue,2026,October,Q4,2026-10,Operations
+EXP00075,2026-06-26,D02,Salaries,Vendor D,13815.51,Paid,2026,June,Q2,2026-06,Marketing
+EXP00076,2026-09-02,D05,Marketing,Vendor B,7492.96,Paid,2026,September,Q3,2026-09,Customer Support
+EXP00077,2026-01-07,D02,Utilities,Vendor D,13086,Overdue,2026,January,Q1,2026-01,Marketing
+EXP00078,2026-01-07,D02,Utilities,Vendor E,5396.35,Paid,2026,January,Q1,2026-01,Marketing
+EXP00079,2026-09-16,D02,Software,Vendor E,24408.92,Paid,2026,September,Q3,2026-09,Marketing
+EXP00080,2026-02-01,D02,Marketing,Vendor E,6656.56,Paid,2026,February,Q1,2026-02,Marketing
+EXP00081,2026-02-17,D01,Marketing,Vendor A,13368.43,Paid,2026,February,Q1,2026-02,Sales
+EXP00082,2026-06-07,D04,Utilities,Vendor A,18761.96,Paid,2026,June,Q2,2026-06,Finance
+EXP00083,2026-07-04,D01,Travel,Vendor E,12467.26,Paid,2026,July,Q3,2026-07,Sales
+EXP00084,2026-03-11,D02,Software,Vendor B,10474.32,Overdue,2026,March,Q1,2026-03,Marketing
+EXP00085,2026-05-16,D02,Utilities,Vendor A,9961.48,Overdue,2026,May,Q2,2026-05,Marketing
+EXP00086,2026-07-25,D02,Professional Fees,Vendor B,9567.58,Paid,2026,July,Q3,2026-07,Marketing
+EXP00087,2026-05-15,D04,Marketing,Vendor E,7002.21,Paid,2026,May,Q2,2026-05,Finance
+EXP00088,2026-04-27,D03,Salaries,Vendor B,7557.61,Paid,2026,April,Q2,2026-04,Operations
+EXP00089,2026-01-22,D05,Marketing,Vendor A,24046.73,Paid,2026,January,Q1,2026-01,Customer Support
+EXP00090,2026-05-18,D02,Professional Fees,Vendor D,9273.15,Pending,2026,May,Q2,2026-05,Marketing
+EXP00091,2026-09-02,D05,Professional Fees,Vendor A,6176.59,Paid,2026,September,Q3,2026-09,Customer Support
+EXP00092,2026-07-10,D01,Travel,Vendor B,7260.63,Paid,2026,July,Q3,2026-07,Sales
+EXP00093,2026-09-29,D03,Software,Vendor A,19153.15,Paid,2026,September,Q3,2026-09,Operations
+EXP00094,2026-02-08,D04,Rent,Vendor D,14844.19,Paid,2026,February,Q1,2026-02,Finance
+EXP00095,2026-01-04,D03,Utilities,Vendor C,13852.17,Paid,2026,January,Q1,2026-01,Operations
+EXP00096,2026-06-16,D05,Professional Fees,Vendor E,8480.18,Paid,2026,June,Q2,2026-06,Customer Support
+EXP00097,2026-02-24,D02,Salaries,Vendor B,13960.92,Pending,2026,February,Q1,2026-02,Marketing
+EXP00098,2026-06-30,D01,Travel,Vendor B,6726.86,Paid,2026,June,Q2,2026-06,Sales
+EXP00099,2026-10-02,D04,Marketing,Vendor A,8469.54,Pending,2026,October,Q4,2026-10,Finance
+EXP00100,2026-04-13,D01,Salaries,Vendor B,17709.96,Paid,2026,April,Q2,2026-04,Sales
+EXP00101,2026-06-17,D04,Professional Fees,Vendor C,16723.44,Pending,2026,June,Q2,2026-06,Finance
+EXP00102,2026-07-27,D04,Salaries,Vendor A,5490.94,Paid,2026,July,Q3,2026-07,Finance
+EXP00103,2026-02-15,D05,Rent,Vendor C,5923.51,Paid,2026,February,Q1,2026-02,Customer Support
+EXP00104,2026-09-30,D03,Professional Fees,Vendor E,10564.15,Overdue,2026,September,Q3,2026-09,Operations
+EXP00105,2026-03-03,D05,Rent,Vendor D,27880.41,Paid,2026,March,Q1,2026-03,Customer Support
+EXP00106,2026-09-03,D01,Utilities,Vendor D,3135.87,Paid,2026,September,Q3,2026-09,Sales
+EXP00107,2026-07-20,D03,Software,Vendor E,11695.97,Paid,2026,July,Q3,2026-07,Operations
+EXP00108,2026-02-12,D01,Utilities,Vendor D,4334.55,Paid,2026,February,Q1,2026-02,Sales
+EXP00109,2026-08-09,D04,Travel,Vendor D,6764.21,Paid,2026,August,Q3,2026-08,Finance
+EXP00110,2026-03-01,D04,Salaries,Vendor E,7953.31,Paid,2026,March,Q1,2026-03,Finance
+EXP00111,2026-07-02,D05,Travel,Vendor A,7690.15,Pending,2026,July,Q3,2026-07,Customer Support
+EXP00112,2026-10-19,D04,Travel,Vendor E,7184.8,Paid,2026,October,Q4,2026-10,Finance
+EXP00113,2026-10-17,D02,Marketing,Vendor B,9940.02,Paid,2026,October,Q4,2026-10,Marketing
+EXP00114,2026-09-22,D01,Software,Vendor D,7178.51,Paid,2026,September,Q3,2026-09,Sales
+EXP00115,2026-05-31,D05,Marketing,Vendor E,4115.54,Pending,2026,May,Q2,2026-05,Customer Support
+EXP00116,2026-06-20,D03,Travel,Vendor C,15802.47,Paid,2026,June,Q2,2026-06,Operations
+EXP00117,2026-04-02,D01,Travel,Vendor A,15548.56,Paid,2026,April,Q2,2026-04,Sales
+EXP00118,2026-10-07,D05,Rent,Vendor B,16414.24,Paid,2026,October,Q4,2026-10,Customer Support
+EXP00119,2026-05-26,D05,Travel,Vendor C,3926.72,Paid,2026,May,Q2,2026-05,Customer Support
+EXP00120,2026-08-23,D03,Utilities,Vendor E,11841.33,Pending,2026,August,Q3,2026-08,Operations
+EXP00121,2026-04-20,D04,Software,Vendor E,14847.51,Paid,2026,April,Q2,2026-04,Finance
+EXP00122,2026-08-14,D01,Professional Fees,Vendor C,5330.92,Pending,2026,August,Q3,2026-08,Sales
+EXP00123,2026-03-10,D01,Travel,Vendor E,9951.75,Paid,2026,March,Q1,2026-03,Sales
+EXP00124,2026-08-12,D02,Salaries,Vendor C,9230.24,Paid,2026,August,Q3,2026-08,Marketing
+EXP00125,2026-01-14,D04,Software,Vendor C,,Paid,2026,January,Q1,2026-01,Finance
+EXP00126,2026-02-01,D01,Utilities,Vendor E,31404.22,Paid,2026,February,Q1,2026-02,Sales
+EXP00127,2026-04-18,D01,Professional Fees,Vendor D,3646,Paid,2026,April,Q2,2026-04,Sales
+EXP00128,2026-05-27,D04,Software,Vendor C,44194.53,Paid,2026,May,Q2,2026-05,Finance
+EXP00129,2026-08-05,D04,Rent,Vendor C,5715.09,Paid,2026,August,Q3,2026-08,Finance
+EXP00130,2026-04-20,D04,Rent,Vendor D,17825.83,Paid,2026,April,Q2,2026-04,Finance
+EXP00131,2026-01-06,D04,Salaries,Vendor D,17717.33,Paid,2026,January,Q1,2026-01,Finance
+EXP00132,2026-04-09,D05,Marketing,Vendor C,5445.72,Paid,2026,April,Q2,2026-04,Customer Support
+EXP00133,2026-05-14,D04,Rent,Vendor A,13305.87,Paid,2026,May,Q2,2026-05,Finance
+EXP00134,2026-06-15,D03,Professional Fees,Vendor A,,Paid,2026,June,Q2,2026-06,Operations
+EXP00135,2026-07-15,D05,Utilities,Vendor A,13802.4,Paid,2026,July,Q3,2026-07,Customer Support
+EXP00136,2026-03-17,D02,Salaries,Vendor C,11366.25,Paid,2026,March,Q1,2026-03,Marketing
+EXP00137,2026-07-05,D01,Software,Vendor D,20288.38,Paid,2026,July,Q3,2026-07,Sales
+EXP00138,2026-07-12,D04,Marketing,Vendor E,10355.15,Paid,2026,July,Q3,2026-07,Finance
+EXP00139,2026-08-25,D02,Software,Vendor B,8948.81,Paid,2026,August,Q3,2026-08,Marketing
+EXP00140,2026-06-08,D05,Marketing,Vendor D,19103.72,Paid,2026,June,Q2,2026-06,Customer Support
+EXP00141,2026-09-04,D03,Salaries,Vendor D,,Paid,2026,September,Q3,2026-09,Operations
+EXP00142,2026-03-09,D05,Salaries,Vendor A,15353.34,Paid,2026,March,Q1,2026-03,Customer Support
+EXP00143,2026-08-05,D01,Salaries,Vendor B,6642.53,Paid,2026,August,Q3,2026-08,Sales
+EXP00144,2026-01-14,D04,Travel,Vendor B,5286.13,Pending,2026,January,Q1,2026-01,Finance
+EXP00145,2026-02-01,D03,Utilities,Vendor E,7040.02,Paid,2026,February,Q1,2026-02,Operations
+EXP00146,2026-09-20,D03,Software,Vendor E,6819.27,Pending,2026,September,Q3,2026-09,Operations
+EXP00147,2026-05-25,D02,Professional Fees,Vendor E,15862.6,Paid,2026,May,Q2,2026-05,Marketing
+EXP00148,2026-07-08,D05,Software,Vendor C,17775.75,Paid,2026,July,Q3,2026-07,Customer Support
+EXP00149,2026-07-03,D02,Salaries,Vendor C,9017.49,Paid,2026,July,Q3,2026-07,Marketing
+EXP00150,2026-07-31,D05,Travel,Vendor B,23354.65,Paid,2026,July,Q3,2026-07,Customer Support
+EXP00151,2026-03-16,D03,Utilities,Vendor D,22495.75,Pending,2026,March,Q1,2026-03,Operations
+EXP00152,2026-02-24,D01,Salaries,Vendor A,11453.37,Paid,2026,February,Q1,2026-02,Sales
+EXP00153,2026-01-13,D05,Salaries,Vendor B,6044.26,Overdue,2026,January,Q1,2026-01,Customer Support
+EXP00154,2026-09-20,D01,Utilities,Vendor A,25469.22,Paid,2026,September,Q3,2026-09,Sales
+EXP00155,2026-03-09,D02,Rent,Vendor C,9541.34,Pending,2026,March,Q1,2026-03,Marketing
+EXP00156,2026-06-24,D05,Travel,Vendor B,10675.42,Overdue,2026,June,Q2,2026-06,Customer Support
+EXP00157,2026-05-19,D05,Utilities,Vendor A,8072.65,Paid,2026,May,Q2,2026-05,Customer Support
+EXP00158,2026-02-19,D05,Utilities,Vendor B,5802.97,Paid,2026,February,Q1,2026-02,Customer Support
+EXP00159,2026-05-06,D03,Travel,Vendor E,4100.3,Paid,2026,May,Q2,2026-05,Operations
+EXP00160,2026-01-26,D04,Marketing,Vendor C,14468.38,Paid,2026,January,Q1,2026-01,Finance
+EXP00161,2026-02-23,D02,Salaries,Vendor E,6185.48,Overdue,2026,February,Q1,2026-02,Marketing
+EXP00162,2026-02-12,D04,Travel,Vendor E,62051.42,Paid,2026,February,Q1,2026-02,Finance
+EXP00163,2026-09-08,D03,Rent,Vendor E,5158.27,Paid,2026,September,Q3,2026-09,Operations
+EXP00164,2026-06-22,D01,Software,Vendor B,4654.41,Paid,2026,June,Q2,2026-06,Sales
+EXP00165,2026-10-09,D03,Professional Fees,Vendor E,13441.24,Paid,2026,October,Q4,2026-10,Operations
+EXP00166,2026-05-13,D03,Professional Fees,Vendor E,24774.94,Overdue,2026,May,Q2,2026-05,Operations
+EXP00167,2026-03-03,D02,Software,Vendor E,10288.21,Paid,2026,March,Q1,2026-03,Marketing
+EXP00168,2026-07-05,D02,Travel,Vendor B,13951.54,Pending,2026,July,Q3,2026-07,Marketing
+EXP00169,2026-10-10,D03,Software,Vendor B,3274.34,Overdue,2026,October,Q4,2026-10,Operations
+EXP00170,2026-06-11,D01,Marketing,Vendor C,6591.22,Paid,2026,June,Q2,2026-06,Sales
+EXP00171,2026-01-06,D01,Salaries,Vendor E,5196.97,Paid,2026,January,Q1,2026-01,Sales
+EXP00172,2026-04-03,D04,Travel,Vendor E,3174.71,Paid,2026,April,Q2,2026-04,Finance
+EXP00173,2026-10-09,D02,Marketing,Vendor C,10616.75,Paid,2026,October,Q4,2026-10,Marketing
+EXP00174,2026-06-07,D04,Rent,Vendor A,2576.8,Paid,2026,June,Q2,2026-06,Finance
+EXP00175,2026-10-17,D03,Rent,Vendor C,4476.88,Pending,2026,October,Q4,2026-10,Operations
+EXP00176,2026-06-04,D03,Software,Vendor D,7170.16,Paid,2026,June,Q2,2026-06,Operations
+EXP00177,2026-01-04,D03,Utilities,Vendor C,6010.29,Pending,2026,January,Q1,2026-01,Operations
+EXP00178,2026-09-23,D03,Rent,Vendor B,12554.63,Pending,2026,September,Q3,2026-09,Operations
+EXP00179,2026-08-20,D05,Utilities,Vendor B,11888.75,Pending,2026,August,Q3,2026-08,Customer Support
+EXP00180,2026-08-06,D05,Marketing,Vendor A,16920.47,Paid,2026,August,Q3,2026-08,Customer Support
+EXP00181,2026-10-22,D02,Professional Fees,Vendor B,15544,Paid,2026,October,Q4,2026-10,Marketing
+EXP00182,2026-03-01,D04,Travel,Vendor D,19623.59,Paid,2026,March,Q1,2026-03,Finance
+EXP00183,2026-10-03,D05,Utilities,Vendor B,9885.74,Paid,2026,October,Q4,2026-10,Customer Support
+EXP00184,2026-03-12,D01,Software,Vendor E,11873.69,Paid,2026,March,Q1,2026-03,Sales
+EXP00185,2026-10-23,D04,Software,Vendor A,13452.34,Paid,2026,October,Q4,2026-10,Finance
+EXP00186,2026-02-28,D03,Marketing,Vendor C,10775.11,Paid,2026,February,Q1,2026-02,Operations
+EXP00187,2026-06-17,D05,Marketing,Vendor C,7798.47,Paid,2026,June,Q2,2026-06,Customer Support
+EXP00188,2026-08-28,D03,Utilities,Vendor E,8107.42,Paid,2026,August,Q3,2026-08,Operations
+EXP00189,2026-01-24,D05,Travel,Vendor E,6060,Paid,2026,January,Q1,2026-01,Customer Support
+EXP00190,2026-01-21,D01,Professional Fees,Vendor C,12745.97,Paid,2026,January,Q1,2026-01,Sales
+EXP00191,2026-09-16,D01,Travel,Vendor D,9354.3,Pending,2026,September,Q3,2026-09,Sales
+EXP00192,2026-01-19,D05,Marketing,Vendor D,6648.16,Paid,2026,January,Q1,2026-01,Customer Support
+EXP00193,2026-07-06,D03,Professional Fees,Vendor C,6651.87,Pending,2026,July,Q3,2026-07,Operations
+EXP00194,2026-10-13,D03,Marketing,Vendor A,4787.49,Pending,2026,October,Q4,2026-10,Operations
+EXP00195,2026-07-06,D01,Rent,Vendor C,17806.25,Paid,2026,July,Q3,2026-07,Sales
+EXP00196,2026-05-27,D02,Professional Fees,Vendor B,10375.17,Paid,2026,May,Q2,2026-05,Marketing
+EXP00197,2026-05-07,D05,Professional Fees,Vendor C,5897.71,Paid,2026,May,Q2,2026-05,Customer Support
+EXP00198,2026-07-14,D02,Marketing,Vendor D,16076.74,Paid,2026,July,Q3,2026-07,Marketing
+EXP00199,2026-06-23,D03,Travel,Vendor B,7070.81,Paid,2026,June,Q2,2026-06,Operations
+EXP00200,2026-06-02,D02,Software,Vendor B,4256.06,Paid,2026,June,Q2,2026-06,Marketing
+EXP00201,2026-02-16,D02,Marketing,Vendor E,18264.84,Pending,2026,February,Q1,2026-02,Marketing
+EXP00202,2026-07-21,D01,Professional Fees,Vendor B,7170.58,Overdue,2026,July,Q3,2026-07,Sales
+EXP00203,2026-08-13,D05,Marketing,Vendor A,7743.9,Pending,2026,August,Q3,2026-08,Customer Support
+EXP00204,2026-08-04,D05,Travel,Vendor D,10144.71,Paid,2026,August,Q3,2026-08,Customer Support
+EXP00205,2026-01-23,D01,Salaries,Vendor D,19644.52,Paid,2026,January,Q1,2026-01,Sales
+EXP00206,2026-08-02,D02,Travel,Vendor E,10016.83,Overdue,2026,August,Q3,2026-08,Marketing
+EXP00207,2026-08-10,D03,Software,Vendor D,4820,Paid,2026,August,Q3,2026-08,Operations
+EXP00208,2026-02-25,D02,Professional Fees,Vendor E,13716.11,Paid,2026,February,Q1,2026-02,Marketing
+EXP00209,2026-09-16,D04,Marketing,Vendor C,7398.3,Paid,2026,September,Q3,2026-09,Finance
+EXP00210,2026-06-09,D02,Salaries,Vendor B,30722.62,Paid,2026,June,Q2,2026-06,Marketing
+EXP00211,2026-05-24,D01,Salaries,Vendor E,9890.48,Paid,2026,May,Q2,2026-05,Sales
+EXP00212,2026-08-08,D02,Utilities,Vendor B,2588.88,Paid,2026,August,Q3,2026-08,Marketing
+EXP00213,2026-06-04,D03,Professional Fees,Vendor B,12263.95,Paid,2026,June,Q2,2026-06,Operations
+EXP00214,2026-06-15,D01,Utilities,Vendor E,31785.28,Paid,2026,June,Q2,2026-06,Sales
+EXP00215,2026-04-05,D05,Salaries,Vendor E,25477.53,Paid,2026,April,Q2,2026-04,Customer Support
+EXP00216,2026-10-10,D01,Salaries,Vendor B,29690.21,Paid,2026,October,Q4,2026-10,Sales
+EXP00217,2026-10-22,D01,Software,Vendor D,5367.64,Paid,2026,October,Q4,2026-10,Sales
+EXP00218,2026-02-09,D03,Utilities,Vendor E,17107.83,Pending,2026,February,Q1,2026-02,Operations
+EXP00219,2026-08-11,D03,Utilities,Vendor D,6417.62,Paid,2026,August,Q3,2026-08,Operations
+EXP00220,2026-01-08,D02,Utilities,Vendor A,11322.8,Paid,2026,January,Q1,2026-01,Marketing
+EXP00221,2026-04-23,D02,Salaries,Vendor D,4611.13,Pending,2026,April,Q2,2026-04,Marketing
+EXP00222,2026-10-22,D01,Software,Vendor A,6723.25,Paid,2026,October,Q4,2026-10,Sales
+EXP00223,2026-02-23,D04,Professional Fees,Vendor E,6596.22,Pending,2026,February,Q1,2026-02,Finance
+EXP00224,2026-04-25,D02,Professional Fees,Vendor A,16968.83,Paid,2026,April,Q2,2026-04,Marketing
+EXP00225,2026-03-08,D01,Utilities,Vendor E,16001.4,Paid,2026,March,Q1,2026-03,Sales
+EXP00226,2026-08-10,D02,Salaries,Vendor A,11685.36,Paid,2026,August,Q3,2026-08,Marketing
+EXP00227,2026-05-22,D05,Salaries,Vendor C,4401.7,Paid,2026,May,Q2,2026-05,Customer Support
+EXP00228,2026-06-30,D02,Salaries,Vendor B,8209.25,Overdue,2026,June,Q2,2026-06,Marketing
+EXP00229,2026-10-14,D05,Rent,Vendor E,6325.41,Pending,2026,October,Q4,2026-10,Customer Support
+EXP00230,2026-06-08,D02,Utilities,Vendor B,16677.33,Overdue,2026,June,Q2,2026-06,Marketing
+EXP00231,2026-08-12,D01,Rent,Vendor D,20068.58,Pending,2026,August,Q3,2026-08,Sales
+EXP00232,2026-01-30,D02,Software,Vendor A,18654.29,Paid,2026,January,Q1,2026-01,Marketing
+EXP00233,2026-03-07,D02,Utilities,Vendor C,6290.96,Pending,2026,March,Q1,2026-03,Marketing
+EXP00234,2026-10-15,D01,Salaries,Vendor E,1912.72,Paid,2026,October,Q4,2026-10,Sales
+EXP00235,2026-09-19,D03,Utilities,Vendor E,3428.31,Pending,2026,September,Q3,2026-09,Operations
+EXP00236,2026-07-19,D02,Professional Fees,Vendor B,23224.81,Paid,2026,July,Q3,2026-07,Marketing
+EXP00237,2026-04-25,D04,Utilities,Vendor B,7779.5,Paid,2026,April,Q2,2026-04,Finance
+EXP00238,2026-03-02,D03,Professional Fees,Vendor C,6307.95,Pending,2026,March,Q1,2026-03,Operations
+EXP00239,2026-09-16,D03,Rent,Vendor C,26518.45,Pending,2026,September,Q3,2026-09,Operations
+EXP00240,2026-08-27,D03,Marketing,Vendor C,21143.67,Paid,2026,August,Q3,2026-08,Operations
+EXP00241,2026-03-15,D01,Travel,Vendor A,10043.38,Paid,2026,March,Q1,2026-03,Sales
+EXP00242,2026-06-29,D04,Professional Fees,Vendor D,8299.56,Paid,2026,June,Q2,2026-06,Finance
+EXP00243,2026-07-08,D01,Rent,Vendor B,9142.96,Overdue,2026,July,Q3,2026-07,Sales
+EXP00244,2026-05-26,D04,Software,Vendor B,11342.34,Paid,2026,May,Q2,2026-05,Finance
+EXP00245,2026-10-09,D05,Professional Fees,Vendor E,25849.03,Paid,2026,October,Q4,2026-10,Customer Support
+EXP00246,2026-02-07,D04,Salaries,Vendor D,12752.47,Paid,2026,February,Q1,2026-02,Finance
+EXP00247,2026-03-20,D03,Rent,Vendor B,15300.14,Paid,2026,March,Q1,2026-03,Operations
+EXP00248,2026-01-29,D02,Software,Vendor E,19961.53,Paid,2026,January,Q1,2026-01,Marketing
+EXP00249,2026-07-30,D05,Rent,Vendor B,4905.9,Paid,2026,July,Q3,2026-07,Customer Support
+EXP00250,2026-07-15,D02,Travel,Vendor C,15567.13,Pending,2026,July,Q3,2026-07,Marketing
+EXP00251,2026-10-28,D03,Marketing,Vendor B,8293.76,Pending,2026,October,Q4,2026-10,Operations
+EXP00252,2026-06-14,D04,Rent,Vendor A,2187.12,Overdue,2026,June,Q2,2026-06,Finance
+EXP00253,2026-02-15,D05,Utilities,Vendor C,2760.31,Paid,2026,February,Q1,2026-02,Customer Support
+EXP00254,2026-05-18,D05,Travel,Vendor C,5372.93,Paid,2026,May,Q2,2026-05,Customer Support
+EXP00255,2026-01-27,D01,Professional Fees,Vendor E,,Paid,2026,January,Q1,2026-01,Sales
+EXP00256,2026-07-23,D05,Marketing,Vendor B,10596.51,Pending,2026,July,Q3,2026-07,Customer Support
+EXP00257,2026-07-24,D01,Software,Vendor E,11054.8,Paid,2026,July,Q3,2026-07,Sales
+EXP00258,2026-09-18,D03,Salaries,Vendor D,31906.53,Paid,2026,September,Q3,2026-09,Operations
+EXP00259,2026-04-14,D05,Software,Vendor A,4621.83,Pending,2026,April,Q2,2026-04,Customer Support
+EXP00260,2026-04-05,D04,Rent,Vendor D,9735.56,Paid,2026,April,Q2,2026-04,Finance
+EXP00261,2026-01-22,D05,Marketing,Vendor C,11880.59,Pending,2026,January,Q1,2026-01,Customer Support
+EXP00262,2026-05-07,D02,Travel,Vendor B,6362.88,Paid,2026,May,Q2,2026-05,Marketing
+EXP00263,2026-05-25,D02,Marketing,Vendor C,10066.78,Paid,2026,May,Q2,2026-05,Marketing
+EXP00264,2026-08-18,D02,Utilities,Vendor B,3789.66,Paid,2026,August,Q3,2026-08,Marketing
+EXP00265,2026-08-18,D02,Rent,Vendor D,23062.05,Paid,2026,August,Q3,2026-08,Marketing
+EXP00266,2026-02-12,D04,Salaries,Vendor C,6575.01,Pending,2026,February,Q1,2026-02,Finance
+EXP00267,2026-03-28,D03,Salaries,Vendor C,33484.57,Paid,2026,March,Q1,2026-03,Operations
+EXP00268,2026-06-05,D04,Marketing,Vendor B,9706.15,Paid,2026,June,Q2,2026-06,Finance
+EXP00269,2026-04-12,D03,Travel,Vendor B,18339.86,Pending,2026,April,Q2,2026-04,Operations
+EXP00270,2026-01-08,D02,Utilities,Vendor C,9585.61,Paid,2026,January,Q1,2026-01,Marketing
+EXP00271,2026-09-15,D01,Rent,Vendor C,9716.24,Pending,2026,September,Q3,2026-09,Sales
+EXP00272,2026-08-11,D03,Utilities,Vendor B,6971.48,Paid,2026,August,Q3,2026-08,Operations
+EXP00273,2026-06-08,D05,Rent,Vendor C,10630.41,Pending,2026,June,Q2,2026-06,Customer Support
+EXP00274,2026-04-07,D05,Travel,Vendor B,11977.67,Paid,2026,April,Q2,2026-04,Customer Support
+EXP00275,2026-09-14,D02,Rent,Vendor C,6182.3,Paid,2026,September,Q3,2026-09,Marketing
+EXP00276,2026-01-11,D03,Rent,Vendor A,9181.75,Paid,2026,January,Q1,2026-01,Operations
+EXP00277,2026-05-16,D04,Utilities,Vendor C,6863.28,Paid,2026,May,Q2,2026-05,Finance
+EXP00278,2026-09-01,D04,Software,Vendor D,39332.19,Paid,2026,September,Q3,2026-09,Finance
+EXP00279,2026-10-17,D01,Rent,Vendor E,9378.37,Paid,2026,October,Q4,2026-10,Sales
+EXP00280,2026-03-18,D03,Software,Vendor D,25012.71,Paid,2026,March,Q1,2026-03,Operations
+EXP00281,2026-07-17,D01,Utilities,Vendor D,8801.05,Pending,2026,July,Q3,2026-07,Sales
+EXP00282,2026-02-27,D01,Utilities,Vendor A,11563.08,Paid,2026,February,Q1,2026-02,Sales
+EXP00283,2026-02-05,D04,Rent,Vendor B,4479.12,Paid,2026,February,Q1,2026-02,Finance
+EXP00284,2026-04-18,D01,Professional Fees,Vendor D,7568.55,Overdue,2026,April,Q2,2026-04,Sales
+EXP00285,2026-09-27,D02,Marketing,Vendor E,11229.74,Paid,2026,September,Q3,2026-09,Marketing
+EXP00286,2026-07-29,D03,Salaries,Vendor C,25632.14,Overdue,2026,July,Q3,2026-07,Operations
+EXP00287,2026-05-29,D04,Rent,Vendor E,11307.14,Overdue,2026,May,Q2,2026-05,Finance
+EXP00288,2026-03-27,D03,Utilities,Vendor B,22702.54,Pending,2026,March,Q1,2026-03,Operations
+EXP00289,2026-02-13,D01,Salaries,Vendor A,14536.78,Pending,2026,February,Q1,2026-02,Sales
+EXP00290,2026-03-24,D04,Salaries,Vendor A,26276.78,Paid,2026,March,Q1,2026-03,Finance
+EXP00291,2026-02-16,D05,Software,Vendor C,9552.66,Paid,2026,February,Q1,2026-02,Customer Support
+EXP00292,2026-02-26,D05,Utilities,Vendor D,41528.43,Paid,2026,February,Q1,2026-02,Customer Support
+EXP00293,2026-07-29,D04,Marketing,Vendor B,7396.5,Pending,2026,July,Q3,2026-07,Finance
+EXP00294,2026-02-10,D03,Professional Fees,Vendor D,6248.66,Paid,2026,February,Q1,2026-02,Operations
+EXP00295,2026-01-15,D05,Professional Fees,Vendor D,4788.48,Pending,2026,January,Q1,2026-01,Customer Support
+EXP00296,2026-06-14,D03,Marketing,Vendor B,40079.28,Paid,2026,June,Q2,2026-06,Operations
+EXP00297,2026-03-29,D01,Rent,Vendor B,16182.22,Paid,2026,March,Q1,2026-03,Sales
+EXP00298,2026-05-19,D05,Travel,Vendor D,8099.26,Paid,2026,May,Q2,2026-05,Customer Support
+EXP00299,2026-02-12,D02,Salaries,Vendor D,20939.94,Paid,2026,February,Q1,2026-02,Marketing
+EXP00300,2026-03-05,D05,Travel,Vendor A,14952.22,Paid,2026,March,Q1,2026-03,Customer Support
+EXP00301,2026-05-15,D02,Rent,Vendor B,32198.54,Paid,2026,May,Q2,2026-05,Marketing
+EXP00302,2026-07-29,D05,Software,Vendor C,3910.03,Pending,2026,July,Q3,2026-07,Customer Support
+EXP00303,2026-05-06,D03,Software,Vendor C,8440.39,Paid,2026,May,Q2,2026-05,Operations
+EXP00304,2026-06-14,D03,Salaries,Vendor A,7498.72,Paid,2026,June,Q2,2026-06,Operations
+EXP00305,2026-06-08,D02,Utilities,Vendor E,3028.4,Paid,2026,June,Q2,2026-06,Marketing
+EXP00306,2026-03-23,D05,Professional Fees,Vendor B,18698.46,Paid,2026,March,Q1,2026-03,Customer Support
+EXP00307,2026-03-27,D01,Utilities,Vendor B,8414.92,Paid,2026,March,Q1,2026-03,Sales
+EXP00308,2026-05-10,D03,Travel,Vendor A,15425.52,Paid,2026,May,Q2,2026-05,Operations
+EXP00309,2026-01-10,D02,Rent,Vendor E,40776.58,Pending,2026,January,Q1,2026-01,Marketing
+EXP00310,2026-07-28,D03,Professional Fees,Vendor B,8006.86,Paid,2026,July,Q3,2026-07,Operations
+EXP00311,2026-07-06,D02,Rent,Vendor E,7687.17,Paid,2026,July,Q3,2026-07,Marketing
+EXP00312,2026-04-04,D04,Travel,Vendor C,10627.48,Paid,2026,April,Q2,2026-04,Finance
+EXP00313,2026-04-24,D02,Travel,Vendor E,17896.28,Paid,2026,April,Q2,2026-04,Marketing
+EXP00314,2026-04-10,D01,Utilities,Vendor A,7044.29,Pending,2026,April,Q2,2026-04,Sales
+EXP00315,2026-07-18,D01,Marketing,Vendor A,6777.9,Paid,2026,July,Q3,2026-07,Sales
+EXP00316,2026-08-19,D04,Utilities,Vendor E,18663.29,Pending,2026,August,Q3,2026-08,Finance
+EXP00317,2026-02-03,D02,Professional Fees,Vendor E,12421.49,Paid,2026,February,Q1,2026-02,Marketing
+EXP00318,2026-05-06,D02,Salaries,Vendor C,2902.02,Paid,2026,May,Q2,2026-05,Marketing
+EXP00319,2026-01-05,D04,Utilities,Vendor A,4744.61,Paid,2026,January,Q1,2026-01,Finance
+EXP00320,2026-05-18,D02,Travel,Vendor E,24361.07,Paid,2026,May,Q2,2026-05,Marketing
+EXP00321,2026-03-17,D02,Marketing,Vendor B,12596.28,Overdue,2026,March,Q1,2026-03,Marketing
+EXP00322,2026-04-13,D02,Software,Vendor E,6264.68,Paid,2026,April,Q2,2026-04,Marketing
+EXP00323,2026-05-19,D02,Travel,Vendor E,8935.2,Pending,2026,May,Q2,2026-05,Marketing
+EXP00324,2026-04-09,D04,Travel,Vendor E,9976.05,Pending,2026,April,Q2,2026-04,Finance
+EXP00325,2026-04-30,D03,Salaries,Vendor D,15389.49,Paid,2026,April,Q2,2026-04,Operations
+EXP00326,2026-08-21,D05,Utilities,Vendor D,4381.04,Paid,2026,August,Q3,2026-08,Customer Support
+EXP00327,2026-09-04,D04,Software,Vendor C,5975.54,Paid,2026,September,Q3,2026-09,Finance
+EXP00328,2026-01-02,D01,Travel,Vendor A,11658.3,Paid,2026,January,Q1,2026-01,Sales
+EXP00329,2026-04-25,D02,Software,Vendor B,9321.69,Pending,2026,April,Q2,2026-04,Marketing
+EXP00330,2026-09-15,D02,Software,Vendor D,13948.34,Paid,2026,September,Q3,2026-09,Marketing
+EXP00331,2026-06-11,D03,Travel,Vendor E,4732.91,Overdue,2026,June,Q2,2026-06,Operations
+EXP00332,2026-03-04,D02,Professional Fees,Vendor C,12262.21,Paid,2026,March,Q1,2026-03,Marketing
+EXP00333,2026-06-30,D05,Professional Fees,Vendor D,19052.43,Paid,2026,June,Q2,2026-06,Customer Support
+EXP00334,2026-02-14,D02,Travel,Vendor A,13254.48,Paid,2026,February,Q1,2026-02,Marketing
+EXP00335,2026-01-07,D03,Marketing,Vendor C,10758.67,Paid,2026,January,Q1,2026-01,Operations
+EXP00336,2026-07-12,D01,Professional Fees,Vendor C,9343.81,Pending,2026,July,Q3,2026-07,Sales
+EXP00337,2026-06-06,D05,Software,Vendor E,5997.45,Paid,2026,June,Q2,2026-06,Customer Support
+EXP00338,2026-08-18,D05,Professional Fees,Vendor B,9478.68,Overdue,2026,August,Q3,2026-08,Customer Support
+EXP00339,2026-04-15,D04,Salaries,Vendor B,21074.59,Pending,2026,April,Q2,2026-04,Finance
+EXP00340,2026-09-17,D02,Software,Vendor B,9214.95,Pending,2026,September,Q3,2026-09,Marketing
+EXP00341,2026-05-09,D01,Travel,Vendor A,5802.93,Paid,2026,May,Q2,2026-05,Sales
+EXP00342,2026-08-13,D04,Salaries,Vendor C,7366.16,Pending,2026,August,Q3,2026-08,Finance
+EXP00343,2026-01-31,D03,Utilities,Vendor D,11164.68,Paid,2026,January,Q1,2026-01,Operations
+EXP00344,2026-01-30,D05,Utilities,Vendor E,7910.07,Pending,2026,January,Q1,2026-01,Customer Support
+EXP00345,2026-08-26,D04,Travel,Vendor E,13242.44,Paid,2026,August,Q3,2026-08,Finance
+EXP00346,2026-09-11,D03,Utilities,Vendor A,13544.1,Paid,2026,September,Q3,2026-09,Operations
+EXP00347,2026-10-14,D05,Utilities,Vendor B,16871.65,Paid,2026,October,Q4,2026-10,Customer Support
+EXP00348,2026-04-09,D05,Utilities,Vendor B,23251.75,Paid,2026,April,Q2,2026-04,Customer Support
+EXP00349,2026-01-07,D03,Utilities,Vendor B,17988.99,Paid,2026,January,Q1,2026-01,Operations
+EXP00350,2026-10-25,D01,Rent,Vendor E,5650.26,Pending,2026,October,Q4,2026-10,Sales
+EXP00351,2026-07-02,D01,Salaries,Vendor A,5755.32,Paid,2026,July,Q3,2026-07,Sales
+EXP00352,2026-03-17,D03,Professional Fees,Vendor A,9457.25,Pending,2026,March,Q1,2026-03,Operations
+EXP00353,2026-08-21,D03,Rent,Vendor E,7549.94,Paid,2026,August,Q3,2026-08,Operations
+EXP00354,2026-10-02,D01,Professional Fees,Vendor E,4999.05,Pending,2026,October,Q4,2026-10,Sales
+EXP00355,2026-03-28,D01,Professional Fees,Vendor B,7593.02,Pending,2026,March,Q1,2026-03,Sales
+EXP00356,2026-08-22,D04,Software,Vendor B,7444.96,Paid,2026,August,Q3,2026-08,Finance
+EXP00357,2026-08-28,D04,Travel,Vendor C,6613.65,Pending,2026,August,Q3,2026-08,Finance
+EXP00358,2026-06-02,D01,Software,Vendor C,8188.83,Pending,2026,June,Q2,2026-06,Sales
+EXP00359,2026-07-12,D03,Salaries,Vendor E,20071.79,Pending,2026,July,Q3,2026-07,Operations
+EXP00360,2026-03-23,D01,Professional Fees,Vendor C,11153.88,Paid,2026,March,Q1,2026-03,Sales
+EXP00361,2026-10-10,D04,Professional Fees,Vendor A,43611.91,Paid,2026,October,Q4,2026-10,Finance
+EXP00362,2026-10-26,D05,Professional Fees,Vendor C,10963.26,Pending,2026,October,Q4,2026-10,Customer Support
+EXP00363,2026-10-26,D05,Professional Fees,Vendor C,8316.2,Paid,2026,October,Q4,2026-10,Customer Support
+EXP00364,2026-08-13,D03,Rent,Vendor C,9921.7,Pending,2026,August,Q3,2026-08,Operations
+EXP00365,2026-01-13,D04,Marketing,Vendor C,11543.7,Paid,2026,January,Q1,2026-01,Finance
+EXP00366,2026-04-22,D05,Professional Fees,Vendor E,12850.68,Pending,2026,April,Q2,2026-04,Customer Support
+EXP00367,2026-05-16,D04,Marketing,Vendor E,34407.4,Paid,2026,May,Q2,2026-05,Finance
+EXP00368,2026-10-19,D03,Rent,Vendor B,5959.89,Paid,2026,October,Q4,2026-10,Operations
+EXP00369,2026-06-16,D04,Software,Vendor B,16571.3,Overdue,2026,June,Q2,2026-06,Finance
+EXP00370,2026-06-12,D03,Utilities,Vendor D,11211,Pending,2026,June,Q2,2026-06,Operations
+EXP00371,2026-02-14,D05,Utilities,Vendor C,3855.83,Pending,2026,February,Q1,2026-02,Customer Support
+EXP00372,2026-08-30,D03,Rent,Vendor C,15715.76,Overdue,2026,August,Q3,2026-08,Operations
+EXP00373,2026-04-13,D05,Marketing,Vendor A,21174.95,Paid,2026,April,Q2,2026-04,Customer Support
+EXP00374,2026-01-28,D01,Software,Vendor B,5917.65,Paid,2026,January,Q1,2026-01,Sales
+EXP00375,2026-10-28,D01,Salaries,Vendor D,9844.22,Paid,2026,October,Q4,2026-10,Sales
+EXP00376,2026-02-27,D01,Rent,Vendor E,3514.97,Paid,2026,February,Q1,2026-02,Sales
+EXP00377,2026-01-05,D03,Rent,Vendor D,4650.44,Paid,2026,January,Q1,2026-01,Operations
+EXP00378,2026-01-24,D04,Utilities,Vendor B,18561,Overdue,2026,January,Q1,2026-01,Finance
+EXP00379,2026-05-18,D02,Professional Fees,Vendor A,7481.21,Paid,2026,May,Q2,2026-05,Marketing
+EXP00380,2026-02-01,D01,Marketing,Vendor A,5088.4,Paid,2026,February,Q1,2026-02,Sales
+EXP00381,2026-09-14,D05,Utilities,Vendor B,11357.98,Paid,2026,September,Q3,2026-09,Customer Support
+EXP00382,2026-06-05,D04,Utilities,Vendor C,7234.04,Paid,2026,June,Q2,2026-06,Finance
+EXP00383,2026-04-09,D04,Software,Vendor E,7461.46,Paid,2026,April,Q2,2026-04,Finance
+EXP00384,2026-01-01,D03,Utilities,Vendor E,15422.7,Paid,2026,January,Q1,2026-01,Operations
+EXP00385,2026-05-26,D03,Salaries,Vendor A,4929.34,Paid,2026,May,Q2,2026-05,Operations
+EXP00386,2026-02-15,D01,Rent,Vendor D,5749,Paid,2026,February,Q1,2026-02,Sales
+EXP00387,2026-10-25,D01,Professional Fees,Vendor B,10855.73,Pending,2026,October,Q4,2026-10,Sales
+EXP00388,2026-03-30,D05,Rent,Vendor A,17705.77,Paid,2026,March,Q1,2026-03,Customer Support
+EXP00389,2026-05-25,D02,Professional Fees,Vendor C,20803.91,Paid,2026,May,Q2,2026-05,Marketing
+EXP00390,2026-01-06,D04,Salaries,Vendor A,6640.64,Paid,2026,January,Q1,2026-01,Finance
+EXP00391,2026-02-09,D04,Marketing,Vendor B,17368.72,Paid,2026,February,Q1,2026-02,Finance
+EXP00392,2026-03-05,D02,Utilities,Vendor C,6182.73,Paid,2026,March,Q1,2026-03,Marketing
+EXP00393,2026-01-16,D02,Rent,Vendor B,29605.8,Overdue,2026,January,Q1,2026-01,Marketing
+EXP00394,2026-08-09,D04,Professional Fees,Vendor C,,Paid,2026,August,Q3,2026-08,Finance
+EXP00395,2026-10-15,D01,Marketing,Vendor C,21962.4,Paid,2026,October,Q4,2026-10,Sales
+EXP00396,2026-10-27,D03,Rent,Vendor D,6674.89,Paid,2026,October,Q4,2026-10,Operations
+EXP00397,2026-03-22,D05,Travel,Vendor A,33121.83,Pending,2026,March,Q1,2026-03,Customer Support
+EXP00398,2026-08-28,D04,Professional Fees,Vendor A,14112.16,Paid,2026,August,Q3,2026-08,Finance
+EXP00399,2026-06-03,D04,Salaries,Vendor C,5379.71,Paid,2026,June,Q2,2026-06,Finance
+EXP00400,2026-01-14,D01,Software,Vendor B,7234.79,Pending,2026,January,Q1,2026-01,Sales
+EXP00401,2026-01-28,D01,Salaries,Vendor D,15814.91,Paid,2026,January,Q1,2026-01,Sales
+EXP00402,2026-06-16,D02,Rent,Vendor A,18612.46,Paid,2026,June,Q2,2026-06,Marketing
+EXP00403,2026-05-09,D02,Software,Vendor C,9485.98,Paid,2026,May,Q2,2026-05,Marketing
+EXP00404,2026-01-03,D01,Travel,Vendor E,10165.91,Paid,2026,January,Q1,2026-01,Sales
+EXP00405,2026-10-10,D05,Utilities,Vendor A,15599.78,Overdue,2026,October,Q4,2026-10,Customer Support
+EXP00406,2026-08-11,D01,Travel,Vendor B,10711.56,Paid,2026,August,Q3,2026-08,Sales
+EXP00407,2026-06-02,D04,Software,Vendor E,4554.62,Paid,2026,June,Q2,2026-06,Finance
+EXP00408,2026-10-28,D03,Salaries,Vendor C,6076.69,Paid,2026,October,Q4,2026-10,Operations
+EXP00409,2026-10-23,D04,Software,Vendor A,11396.62,Paid,2026,October,Q4,2026-10,Finance
+EXP00410,2026-10-24,D02,Professional Fees,Vendor B,20522.75,Pending,2026,October,Q4,2026-10,Marketing
+EXP00411,2026-03-20,D02,Marketing,Vendor D,26097.36,Paid,2026,March,Q1,2026-03,Marketing
+EXP00412,2026-09-25,D04,Professional Fees,Vendor E,,Pending,2026,September,Q3,2026-09,Finance
+EXP00413,2026-06-03,D02,Software,Vendor B,11759,Paid,2026,June,Q2,2026-06,Marketing
+EXP00414,2026-08-09,D04,Travel,Vendor C,15510.75,Paid,2026,August,Q3,2026-08,Finance
+EXP00415,2026-09-19,D01,Software,Vendor D,6633.91,Paid,2026,September,Q3,2026-09,Sales
+EXP00416,2026-02-19,D01,Travel,Vendor A,9027.78,Pending,2026,February,Q1,2026-02,Sales
+EXP00417,2026-05-17,D04,Marketing,Vendor B,6036.15,Paid,2026,May,Q2,2026-05,Finance
+EXP00418,2026-02-09,D04,Utilities,Vendor D,4678.6,Paid,2026,February,Q1,2026-02,Finance
+EXP00419,2026-03-26,D01,Travel,Vendor A,12089.95,Pending,2026,March,Q1,2026-03,Sales
+EXP00420,2026-05-06,D05,Utilities,Vendor D,11062.41,Paid,2026,May,Q2,2026-05,Customer Support
+EXP00421,2026-09-18,D01,Rent,Vendor C,14951.87,Paid,2026,September,Q3,2026-09,Sales
+EXP00422,2026-09-20,D05,Travel,Vendor E,13734.51,Paid,2026,September,Q3,2026-09,Customer Support
+EXP00423,2026-04-29,D04,Professional Fees,Vendor A,11448.19,Pending,2026,April,Q2,2026-04,Finance
+EXP00424,2026-04-11,D05,Marketing,Vendor E,13821.35,Paid,2026,April,Q2,2026-04,Customer Support
+EXP00425,2026-06-11,D05,Software,Vendor B,9646.88,Paid,2026,June,Q2,2026-06,Customer Support
+EXP00426,2026-10-05,D02,Professional Fees,Vendor A,12679.41,Paid,2026,October,Q4,2026-10,Marketing
+EXP00427,2026-10-24,D04,Professional Fees,Vendor D,6401.66,Paid,2026,October,Q4,2026-10,Finance
+EXP00428,2026-03-10,D02,Salaries,Vendor C,12355.09,Paid,2026,March,Q1,2026-03,Marketing
+EXP00429,2026-02-26,D03,Professional Fees,Vendor E,14780.3,Paid,2026,February,Q1,2026-02,Operations
+EXP00430,2026-08-03,D02,Professional Fees,Vendor A,6622.25,Paid,2026,August,Q3,2026-08,Marketing
+EXP00431,2026-04-02,D03,Utilities,Vendor A,10209.76,Paid,2026,April,Q2,2026-04,Operations
+EXP00432,2026-03-02,D05,Software,Vendor C,6807.9,Pending,2026,March,Q1,2026-03,Customer Support
+EXP00433,2026-01-10,D03,Rent,Vendor E,7216.29,Paid,2026,January,Q1,2026-01,Operations
+EXP00434,2026-05-03,D01,Marketing,Vendor C,5039.4,Paid,2026,May,Q2,2026-05,Sales
+EXP00435,2026-04-30,D02,Rent,Vendor D,21151.48,Pending,2026,April,Q2,2026-04,Marketing
+EXP00436,2026-06-21,D04,Rent,Vendor E,18758.67,Pending,2026,June,Q2,2026-06,Finance
+EXP00437,2026-03-02,D03,Rent,Vendor E,13663.19,Paid,2026,March,Q1,2026-03,Operations
+EXP00438,2026-08-06,D03,Marketing,Vendor C,32315.99,Paid,2026,August,Q3,2026-08,Operations
+EXP00439,2026-07-26,D03,Rent,Vendor D,8834.79,Paid,2026,July,Q3,2026-07,Operations
+EXP00440,2026-05-21,D02,Marketing,Vendor C,61026.13,Paid,2026,May,Q2,2026-05,Marketing
+EXP00441,2026-02-25,D03,Salaries,Vendor D,8634.17,Paid,2026,February,Q1,2026-02,Operations
+EXP00442,2026-06-04,D04,Salaries,Vendor C,11534.71,Paid,2026,June,Q2,2026-06,Finance
+EXP00443,2026-07-25,D05,Professional Fees,Vendor C,7795.74,Paid,2026,July,Q3,2026-07,Customer Support
+EXP00444,2026-04-24,D04,Professional Fees,Vendor C,12374.53,Paid,2026,April,Q2,2026-04,Finance
+EXP00445,2026-03-22,D05,Rent,Vendor D,16339.96,Paid,2026,March,Q1,2026-03,Customer Support
+EXP00446,2026-06-03,D05,Software,Vendor D,9243.26,Paid,2026,June,Q2,2026-06,Customer Support
+EXP00447,2026-04-18,D01,Utilities,Vendor E,28739.62,Paid,2026,April,Q2,2026-04,Sales
+EXP00448,2026-05-02,D02,Software,Vendor D,11424.2,Pending,2026,May,Q2,2026-05,Marketing
+EXP00449,2026-04-17,D02,Travel,Vendor A,11641.03,Pending,2026,April,Q2,2026-04,Marketing
+EXP00450,2026-04-03,D01,Travel,Vendor C,5736.48,Paid,2026,April,Q2,2026-04,Sales
